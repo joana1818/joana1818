@@ -1,7 +1,7 @@
 <h1 align=>Joana Luiza</h1>
 
 <p align=>
-  Estudante de ADS no IFMA • Desenvolvimento Frontend • Vue.js e JavaScript
+  Estudante de ADS no IFMA • Desenvolvimento Frontend • Vue.js Phyton e JavaScript
 </p>
 
 ---
