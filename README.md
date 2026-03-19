@@ -9,9 +9,7 @@
 ### Sobre mim
 
 - Cursando **Análise e Desenvolvimento de Sistemas** no IFMA
-- Gosto de **desenvolvimento Frontend** com Vue.js e JavaScript
-- Desenvolvi o **Cine Cocais** — plataforma fullstack para um projeto cultural do IFMA
-
+- Gosto de **desenvolvimento Frontend** com Phyton e Javascript
 ---
 
 ### Projeto em Destaque
