@@ -1,28 +1,25 @@
-<h1 align="center">Joana Luiza</h1>
+<h1 align=>Joana Luiza</h1>
 
 <p align="center">
-  Estudante de ADS no IFMA 🎓 • Gosto do Frontend ✨ • Transformando ideias em interfaces
+  Estudante de ADS no IFMA • Desenvolvimento Frontend • Vue.js e JavaScript
 </p>
 
-<br/>
+---
+
+### Sobre mim
+
+- Cursando **Análise e Desenvolvimento de Sistemas** no IFMA
+- Gosto de **desenvolvimento Frontend** com Vue.js e JavaScript
+- Desenvolvi o **Cine Cocais** — plataforma fullstack para um projeto cultural do IFMA
 
 ---
 
-### 🙋‍♀️ Sobre mim
-
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IFMA
-- 💻 Foco em **desenvolvimento Frontend** com Vue.js,JavaScript e Phyton
-- 🎬 Desenvolvi o **Cine Cocais** — plataforma fullstack para um projeto cultural do IFMA
-- 🌱 Sempre aprendendo e construindo coisas novas
-
----
-
-### 🚀 Projeto em Destaque
+### Projeto em Destaque
 
 <table>
   <tr>
     <td width="60%">
-      <h3>🎬 Cine Cocais</h3>
+      <h3>Cine Cocais</h3>
       <p>Plataforma web completa para o projeto cultural Cine Cocais do IFMA. Sistema com inscrição em eventos, galeria de fotos e painel administrativo.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
@@ -42,7 +39,7 @@
 
 ---
 
-### 🛠️ Tecnologias que uso
+### Tecnologias
 
 **Frontend**
 
@@ -52,7 +49,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Backend & Banco de Dados**
+**Backend e Banco de Dados**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -67,9 +64,7 @@
 
 ---
 
-### 📬 Contato
+### Contato
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joana2507005@gmail.com)
-
----
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
