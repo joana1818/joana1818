@@ -20,7 +20,7 @@
   <tr>
     <td width="60%">
       <h3>Cine Cocais</h3>
-      <p>Plataforma web completa para o projeto cultural Cine Cocais do IFMA. Sistema com inscrição em eventos, galeria de fotos e painel administrativo.</p>
+      <p>Plataforma web completa para o projeto cultural Cine Cocais do IFMA.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -29,10 +29,10 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <strong>Frontend</strong>: Vue 3 + Vite + Tailwind<br/>
+      <strong>Frontend</strong>: Vue + Vite <br/>
       <strong>Backend</strong>: Node.js + Express<br/>
-      <strong>Banco</strong>: MySQL + Prisma ORM<br/>
-      <strong>Auth</strong>: JWT + Bcrypt
+      <strong>Banco</strong>: MySQL + Prisma<br/>
+      <strong>Auth</strong>: JWT 
     </td>
   </tr>
 </table>
@@ -45,9 +45,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Backend e Banco de Dados**
@@ -61,7 +58,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
